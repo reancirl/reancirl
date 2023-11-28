@@ -5,6 +5,7 @@ A Software Engineer & Storyteller ~ Born and raise in Iligan City, Philippines. 
 ## 🛠 Skills
 
 SQL, PHP, Laravel, Laravel Livewire, React Native, React JS, Next JS, Vue JS, Nuxt JS, CSS, Bootstrap, Tailwind
+
 Salesforce Development & Administration - SOQL, APEX, LWC, Aura Components, Visualforce
 
 ## 🔗 Connect with me
